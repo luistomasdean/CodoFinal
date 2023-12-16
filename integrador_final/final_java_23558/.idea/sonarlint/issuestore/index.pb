@@ -1,0 +1,25 @@
+
+U
+%src/main/webapp/vistas/actualizar.jsp,9\f\9f2d82ebc9ba9360632c967dd1ff31bcf4507dfc
+Q
+!src/main/webapp/WEB-INF/beans.xml,8\3\83008b1a88ba03a2548bb5b9ad0768c6c307d36c
+R
+"src/main/java/dao/OradoresDAO.java,e\9\e9c5d5896723599f7fbc847291e3b3c5ac532f7a
+c
+3src/main/java/controlador/GestionOradorServlet.java,b\2\b2003897c27947c4fcc7d6faf4dc3af1b93680e2
+[
++src/main/java/controlador/LoginServlet.java,e\0\e055c2a4f22a6ff87cb3f44c05048cbaa9bb56c6
+D
+nb-configuration.xml,3\7\37f39013c8e074c1c1924d690948a7bdf73c6e1d
+Y
+)src/main/webapp/WEB-INF/glassfish-web.xml,3\5\35a9882a1b348898ce361ae7efca289be3713e66
+P
+ src/main/webapp/vistas/login.jsp,8\0\8003930f6473900023daded7952dd9772aa67705
+Z
+*src/main/webapp/vistas/gestionOradores.jsp,1\9\19cea1347d99018e1eef535f771c6439f538eb5c
+R
+"src/main/java/util/ConexionDB.java,4\a\4a709ffb28dd3efc6ab530b64d985e038c30822e
+]
+-src/main/java/controlador/RegistroOrador.java,6\f\6fa053f0818881e722585e875fbcc7a947f66d5a
+P
+ src/main/java/modelo/Orador.java,b\6\b635c397597fbc43b66fd3d5a0746bcbfb476781
